@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Como un usuario" skipped="0" tests="1" time="5.68" timestamp="2021-07-30 04:44:39"><testcase name="Traducir de Ingles a Español"><error message="java.util.Collections$UnmodifiableRandomAccessList cannot be cast to co.com.choucair.certification.proyectobase.model.GoogleTraslateData" type="java.lang.ClassCastException">java.util.Collections$UnmodifiableRandomAccessList cannot be cast to co.com.choucair.certification.proyectobase.model.GoogleTraslateData</error><system-err>java.util.Collections$UnmodifiableRandomAccessList cannot be cast to co.com.choucair.certification.proyectobase.model.GoogleTraslateData&#13;
+co.com.choucair.certification.proyectobase.tasks.Traducir.&lt;init&gt;(Traducir.java:18)&#13;
+co.com.choucair.certification.proyectobase.tasks.Traducir.InglesAEspanol(Traducir.java:24)&#13;
+co.com.choucair.certificacion.proyectobase.stepdefinitions.GoogleTraslateDefinitions.el_traduce_una_palabra_de_inglés_a_español(GoogleTraslateDefinitions.java:23)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
